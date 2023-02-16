@@ -1,6 +1,4 @@
 .git
 node_modules
 refs
-types
-dist
 test
